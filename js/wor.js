@@ -1,6 +1,6 @@
 const RANGE = 150;
 const stars = [];
-const limStars = 5000;
+const limStars = 10000;
 let rotCamPos;
 let cameraPosZ = 1000;
 let angle = 0;
